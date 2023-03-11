@@ -1,0 +1,56 @@
+body{
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  height: 10vh;
+}
+.nav{
+  min-width: 400px;
+  max-width: 600px;
+  height: 100px;
+  background-color: yellow;
+  color: rgb(61, 181, 255);
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+}
+.heading{
+  padding-left: 20px;
+  margin-right: auto;
+}
+.contacts{
+  padding-right: 30px;
+}
+.image-button{
+  background-color: transparent;
+  border: none;
+  padding: 0 7px;
+  margin: 0;
+  cursor: pointer;
+}
+.icons{
+  display: block;
+  height: 30px;
+}
+.main{
+  min-width: 400px;
+  max-width: 600px;
+  height: 600px;
+  color: yellow;
+  background-color: rgb(101, 196, 255);
+}
+.main-heading{
+  padding-top: 25px;
+  margin: 0;
+  text-align: center;
+}
+.main-content{
+  font-size: 20px;
+  padding-left: 100px;
+}
+.list{
+  padding-top: 30px;
+}
+.img-main{
+  height: 60px;
+  display: block;
+}
